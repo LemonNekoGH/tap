@@ -1,7 +1,7 @@
 class EasiGen < Formula
   desc "Help users to generate code for easier contract interaction"
   homepage "https://github.com/LemonNekoGH/easinteraction-for-cadence"
-  url "https://github.com/LemonNekoGH/easinteraction-for-cadence" , :using => :git , :tag => "v0.0.16"
+  url "https://github.com/LemonNekoGH/easinteraction-for-cadence" , :using => :git , :tag => "v0.0.17"
   license "MIT"
   
   
